@@ -1,0 +1,20 @@
+{
+    "appointmentsActive": "Active",
+    "appointmentsAppointments": "Appointments",
+    "appointmentsAvailabilityRule": "Availability rule",
+    "appointmentsAvailabilityRules": "Availability rules",
+    "appointmentsBooking": "Appointment booking",
+    "appointmentsCustomer": "Customer",
+    "appointmentsDayOfWeek": "Day of week",
+    "appointmentsEndDate": "End date",
+    "appointmentsEndTime": "End time",
+    "appointmentsNotes": "Notes",
+    "appointmentsNumber": "Number",
+    "appointmentsProvider": "Provider",
+    "appointmentsService": "Service",
+    "appointmentsSlotDuration": "Slot duration in minutes",
+    "appointmentsStartDate": "Start date",
+    "appointmentsStartTime": "Start time",
+    "appointmentsStatus": "Status",
+    "appointmentsTime": "Time"
+}

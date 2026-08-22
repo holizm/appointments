@@ -1,0 +1,20 @@
+{
+    "appointmentsActive": "فعال",
+    "appointmentsAppointments": "نوبت‌ها",
+    "appointmentsAvailabilityRule": "قاعده دسترسی",
+    "appointmentsAvailabilityRules": "قواعد دسترسی",
+    "appointmentsBooking": "نوبت‌دهی",
+    "appointmentsCustomer": "مشتری",
+    "appointmentsDayOfWeek": "روز هفته",
+    "appointmentsEndDate": "زمان پایان",
+    "appointmentsEndTime": "ساعت پایان",
+    "appointmentsNotes": "یادداشت‌ها",
+    "appointmentsNumber": "شماره",
+    "appointmentsProvider": "ارائه‌دهنده",
+    "appointmentsService": "خدمت",
+    "appointmentsSlotDuration": "مدت نوبت به دقیقه",
+    "appointmentsStartDate": "زمان شروع",
+    "appointmentsStartTime": "ساعت شروع",
+    "appointmentsStatus": "وضعیت",
+    "appointmentsTime": "زمان"
+}

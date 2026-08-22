@@ -1,0 +1,47 @@
+appointmentStatus options
+    requested
+    confirmed
+    rescheduled
+    cancelled
+    completed
+    noShow
+availabilityRule
+    title
+    provider
+    service optional
+    dayOfWeek integer
+    startTime
+    endTime
+    slotDurationMinutes integer
+    capacity integer optional
+    active yesNo optional
+availabilityException
+    provider
+    startDate
+    endDate
+    available yesNo
+    reason optional
+appointment
+    number
+    service
+    provider
+    customer
+    startDate
+    endDate
+    appointmentStatus
+    location optional
+    notes optional
+    unique provider startDate
+appointmentChange
+    appointment
+    previousStartDate
+    previousEndDate
+    newStartDate optional
+    newEndDate optional
+    reason
+    changedDate
+appointmentReminder
+    appointment
+    scheduledDate
+    notification
+    sentDate optional
