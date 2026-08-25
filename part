@@ -30,7 +30,7 @@ appointment
     endDate
     appointmentStatus
     location optional
-    notes optional
+    description optional
     unique provider startDate
 appointmentChange
     appointment
