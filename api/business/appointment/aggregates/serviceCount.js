@@ -1,0 +1,4 @@
+[
+    { $match: { service } },
+    { $count: 'count' },
+]

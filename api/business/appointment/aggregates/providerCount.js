@@ -1,0 +1,4 @@
+[
+    { $match: { provider } },
+    { $count: 'count' },
+]

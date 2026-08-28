@@ -1,0 +1,4 @@
+[
+    { $match: { appointmentStatus } },
+    { $count: 'count' },
+]
