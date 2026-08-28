@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'eventAvailable',
+        path: '/appointments',
         title: 'appointmentsBooking',
     },
 ]
