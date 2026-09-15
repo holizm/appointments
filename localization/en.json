@@ -1,0 +1,29 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "active": "Active",
+        "appointments": "Appointments",
+        "availabilityRule": "Availability rule",
+        "availabilityRules": "Availability rules",
+        "booking": "Appointment booking",
+        "customer": "Customer",
+        "dayOfWeek": "Day of week",
+        "endDate": "End date",
+        "endTime": "End time",
+        "number": "Number",
+        "provider": "Provider",
+        "service": "Service",
+        "slotDuration": "Slot duration in minutes",
+        "startDate": "Start date",
+        "startTime": "Start time",
+        "status": "Status",
+        "time": "Time"
+    },
+    "site": {
+        "appointments": "Appointments",
+        "book": "Book an appointment",
+        "provider": "Provider",
+        "status": "Status"
+    }
+}
