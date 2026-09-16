@@ -46,7 +46,7 @@ const inputs = <>
             'completed',
             'noShow',
         ]}
-        placeholder='appointmentsStatus'
+        placeholder='stateMachinesState'
         property='appointmentStatus'
         required
     />

@@ -11,7 +11,7 @@ const headers = <>
     <th>appointmentsProvider</th>
     <th>appointmentsCustomer</th>
     <th>appointmentsStartDate</th>
-    <th>appointmentsStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
