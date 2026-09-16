@@ -1,9 +1,9 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "active": "فعال",
+    "common": {
         "appointments": "نوبت‌ها",
+        "provider": "ارائه‌دهنده",
+        "status": "وضعیت",
+        "active": "فعال",
         "availabilityRule": "قاعده دسترسی",
         "availabilityRules": "قواعد دسترسی",
         "booking": "نوبت‌دهی",
@@ -12,18 +12,11 @@
         "endDate": "زمان پایان",
         "endTime": "ساعت پایان",
         "number": "شماره",
-        "provider": "ارائه‌دهنده",
         "service": "خدمت",
         "slotDuration": "مدت نوبت به دقیقه",
         "startDate": "زمان شروع",
         "startTime": "ساعت شروع",
-        "status": "وضعیت",
-        "time": "زمان"
-    },
-    "site": {
-        "appointments": "نوبت‌ها",
-        "book": "رزرو نوبت",
-        "provider": "ارائه‌دهنده",
-        "status": "وضعیت"
+        "time": "زمان",
+        "book": "رزرو نوبت"
     }
 }

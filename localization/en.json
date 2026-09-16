@@ -1,9 +1,9 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "active": "Active",
+    "common": {
         "appointments": "Appointments",
+        "provider": "Provider",
+        "status": "Status",
+        "active": "Active",
         "availabilityRule": "Availability rule",
         "availabilityRules": "Availability rules",
         "booking": "Appointment booking",
@@ -12,18 +12,11 @@
         "endDate": "End date",
         "endTime": "End time",
         "number": "Number",
-        "provider": "Provider",
         "service": "Service",
         "slotDuration": "Slot duration in minutes",
         "startDate": "Start date",
         "startTime": "Start time",
-        "status": "Status",
-        "time": "Time"
-    },
-    "site": {
-        "appointments": "Appointments",
-        "book": "Book an appointment",
-        "provider": "Provider",
-        "status": "Status"
+        "time": "Time",
+        "book": "Book an appointment"
     }
 }
