@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "অ্যাপয়েন্টমেন্ট",
+        "provider": "সেবাদাতা",
+        "availabilityRule": "উপলভ্যতার নিয়ম",
+        "availabilityRules": "উপলভ্যতার নিয়মসমূহ",
+        "booking": "অ্যাপয়েন্টমেন্ট বুকিং",
+        "customer": "গ্রাহক",
+        "dayOfWeek": "সপ্তাহের দিন",
+        "endTime": "শেষের সময়",
+        "service": "সেবা",
+        "slotDuration": "স্লটের সময়কাল মিনিটে",
+        "startTime": "শুরুর সময়",
+        "time": "সময়"
+    }
+}

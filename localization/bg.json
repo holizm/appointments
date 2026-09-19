@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Часове",
+        "provider": "Доставчик",
+        "availabilityRule": "Правило за наличност",
+        "availabilityRules": "Правила за наличност",
+        "booking": "Запазване на час",
+        "customer": "Клиент",
+        "dayOfWeek": "Ден от седмицата",
+        "endTime": "Краен час",
+        "service": "Услуга",
+        "slotDuration": "Продължителност на интервала в минути",
+        "startTime": "Начален час",
+        "time": "Час"
+    }
+}

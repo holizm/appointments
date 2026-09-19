@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "ملاقاتیں",
+        "provider": "خدمت فراہم کنندہ",
+        "availabilityRule": "دستیابی کا اصول",
+        "availabilityRules": "دستیابی کے اصول",
+        "booking": "ملاقات کی بکنگ",
+        "customer": "صارف",
+        "dayOfWeek": "ہفتے کا دن",
+        "endTime": "اختتامی وقت",
+        "service": "خدمت",
+        "slotDuration": "دورانیہ منٹوں میں",
+        "startTime": "آغاز کا وقت",
+        "time": "وقت"
+    }
+}

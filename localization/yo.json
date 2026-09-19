@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Àwọn àdéhùn àkókò",
+        "provider": "Olùpèsè iṣẹ́",
+        "availabilityRule": "Òfin àkókò àyè",
+        "availabilityRules": "Àwọn òfin àkókò àyè",
+        "booking": "Ìfipamọ́ àdéhùn àkókò",
+        "customer": "Oníbàárà",
+        "dayOfWeek": "Ọjọ́ ọ̀sẹ̀",
+        "endTime": "Àkókò ìparí",
+        "service": "Iṣẹ́",
+        "slotDuration": "Gígùn àkókò ní ìṣẹ́jú",
+        "startTime": "Àkókò ìbẹ̀rẹ̀",
+        "time": "Àkókò"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Janji temu",
+        "provider": "Penyedia layanan",
+        "availabilityRule": "Aturan ketersediaan",
+        "availabilityRules": "Aturan ketersediaan",
+        "booking": "Pemesanan janji temu",
+        "customer": "Pelanggan",
+        "dayOfWeek": "Hari dalam seminggu",
+        "endTime": "Waktu selesai",
+        "service": "Layanan",
+        "slotDuration": "Durasi slot dalam menit",
+        "startTime": "Waktu mulai",
+        "time": "Waktu"
+    }
+}

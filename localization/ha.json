@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Alƙawura",
+        "provider": "Mai ba da sabis",
+        "availabilityRule": "Dokar samuwa",
+        "availabilityRules": "Dokokin samuwa",
+        "booking": "Yin alƙawari",
+        "customer": "Abokin ciniki",
+        "dayOfWeek": "Ranar mako",
+        "endTime": "Lokacin ƙarewa",
+        "service": "Sabis",
+        "slotDuration": "Tsawon lokaci a mintuna",
+        "startTime": "Lokacin farawa",
+        "time": "Lokaci"
+    }
+}

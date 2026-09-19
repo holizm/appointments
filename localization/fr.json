@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Rendez-vous",
+        "provider": "Prestataire",
+        "availabilityRule": "Règle de disponibilité",
+        "availabilityRules": "Règles de disponibilité",
+        "booking": "Prise de rendez-vous",
+        "customer": "Client",
+        "dayOfWeek": "Jour de la semaine",
+        "endTime": "Heure de fin",
+        "service": "Service",
+        "slotDuration": "Durée du créneau en minutes",
+        "startTime": "Heure de début",
+        "time": "Heure"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Citas",
+        "provider": "Proveedor",
+        "availabilityRule": "Regla de disponibilidad",
+        "availabilityRules": "Reglas de disponibilidad",
+        "booking": "Reserva de cita",
+        "customer": "Cliente",
+        "dayOfWeek": "Día de la semana",
+        "endTime": "Hora de finalización",
+        "service": "Servicio",
+        "slotDuration": "Duración del intervalo en minutos",
+        "startTime": "Hora de inicio",
+        "time": "Hora"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "예약",
+        "provider": "서비스 제공자",
+        "availabilityRule": "예약 가능 규칙",
+        "availabilityRules": "예약 가능 규칙",
+        "booking": "예약 접수",
+        "customer": "고객",
+        "dayOfWeek": "요일",
+        "endTime": "종료 시간",
+        "service": "서비스",
+        "slotDuration": "예약 시간 단위(분)",
+        "startTime": "시작 시간",
+        "time": "시간"
+    }
+}

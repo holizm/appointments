@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Termíny",
+        "provider": "Poskytovatel",
+        "availabilityRule": "Pravidlo dostupnosti",
+        "availabilityRules": "Pravidla dostupnosti",
+        "booking": "Rezervace termínu",
+        "customer": "Zákazník",
+        "dayOfWeek": "Den v týdnu",
+        "endTime": "Čas ukončení",
+        "service": "Služba",
+        "slotDuration": "Délka časového úseku v minutách",
+        "startTime": "Čas zahájení",
+        "time": "Čas"
+    }
+}

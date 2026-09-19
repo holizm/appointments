@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "預約",
+        "provider": "服務提供者",
+        "availabilityRule": "可預約規則",
+        "availabilityRules": "可預約規則",
+        "booking": "預約服務",
+        "customer": "客戶",
+        "dayOfWeek": "星期",
+        "endTime": "結束時間",
+        "service": "服務",
+        "slotDuration": "時段長度（分鐘）",
+        "startTime": "開始時間",
+        "time": "時間"
+    }
+}

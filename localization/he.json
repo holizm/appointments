@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "תורים",
+        "provider": "נותן שירות",
+        "availabilityRule": "כלל זמינות",
+        "availabilityRules": "כללי זמינות",
+        "booking": "קביעת תור",
+        "customer": "לקוח",
+        "dayOfWeek": "יום בשבוע",
+        "endTime": "שעת סיום",
+        "service": "שירות",
+        "slotDuration": "משך משבצת בדקות",
+        "startTime": "שעת התחלה",
+        "time": "שעה"
+    }
+}

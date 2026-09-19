@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Bokningar",
+        "provider": "Tjänsteleverantör",
+        "availabilityRule": "Tillgänglighetsregel",
+        "availabilityRules": "Tillgänglighetsregler",
+        "booking": "Tidsbokning",
+        "customer": "Kund",
+        "dayOfWeek": "Veckodag",
+        "endTime": "Sluttid",
+        "service": "Tjänst",
+        "slotDuration": "Tidsluckans längd i minuter",
+        "startTime": "Starttid",
+        "time": "Tid"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "મુલાકાતો",
+        "provider": "સેવા પ્રદાતા",
+        "availabilityRule": "ઉપલબ્ધતાનો નિયમ",
+        "availabilityRules": "ઉપલબ્ધતાના નિયમો",
+        "booking": "મુલાકાત બુકિંગ",
+        "customer": "ગ્રાહક",
+        "dayOfWeek": "અઠવાડિયાનો દિવસ",
+        "endTime": "સમાપ્તિ સમય",
+        "service": "સેવા",
+        "slotDuration": "સમયખંડની અવધિ મિનિટમાં",
+        "startTime": "શરૂઆતનો સમય",
+        "time": "સમય"
+    }
+}

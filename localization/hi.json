@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "अपॉइंटमेंट",
+        "provider": "सेवा प्रदाता",
+        "availabilityRule": "उपलब्धता नियम",
+        "availabilityRules": "उपलब्धता नियम",
+        "booking": "अपॉइंटमेंट बुकिंग",
+        "customer": "ग्राहक",
+        "dayOfWeek": "सप्ताह का दिन",
+        "endTime": "समाप्ति समय",
+        "service": "सेवा",
+        "slotDuration": "स्लॉट की अवधि मिनटों में",
+        "startTime": "प्रारंभ समय",
+        "time": "समय"
+    }
+}

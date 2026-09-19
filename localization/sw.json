@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Miadi",
+        "provider": "Mtoa huduma",
+        "availabilityRule": "Kanuni ya upatikanaji",
+        "availabilityRules": "Kanuni za upatikanaji",
+        "booking": "Kuhifadhi miadi",
+        "customer": "Mteja",
+        "dayOfWeek": "Siku ya wiki",
+        "endTime": "Muda wa kumaliza",
+        "service": "Huduma",
+        "slotDuration": "Muda wa nafasi kwa dakika",
+        "startTime": "Muda wa kuanza",
+        "time": "Muda"
+    }
+}

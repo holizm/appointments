@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Записи на приём",
+        "provider": "Исполнитель",
+        "availabilityRule": "Правило доступности",
+        "availabilityRules": "Правила доступности",
+        "booking": "Запись на приём",
+        "customer": "Клиент",
+        "dayOfWeek": "День недели",
+        "endTime": "Время окончания",
+        "service": "Услуга",
+        "slotDuration": "Длительность интервала в минутах",
+        "startTime": "Время начала",
+        "time": "Время"
+    }
+}

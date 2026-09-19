@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Ραντεβού",
+        "provider": "Πάροχος",
+        "availabilityRule": "Κανόνας διαθεσιμότητας",
+        "availabilityRules": "Κανόνες διαθεσιμότητας",
+        "booking": "Κράτηση ραντεβού",
+        "customer": "Πελάτης",
+        "dayOfWeek": "Ημέρα εβδομάδας",
+        "endTime": "Ώρα λήξης",
+        "service": "Υπηρεσία",
+        "slotDuration": "Διάρκεια χρονικού διαστήματος σε λεπτά",
+        "startTime": "Ώρα έναρξης",
+        "time": "Ώρα"
+    }
+}

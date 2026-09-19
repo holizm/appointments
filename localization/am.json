@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "ቀጠሮዎች",
+        "provider": "አገልግሎት ሰጪ",
+        "availabilityRule": "የተገኝነት ደንብ",
+        "availabilityRules": "የተገኝነት ደንቦች",
+        "booking": "ቀጠሮ ማስያዝ",
+        "customer": "ደንበኛ",
+        "dayOfWeek": "የሳምንቱ ቀን",
+        "endTime": "የማብቂያ ሰዓት",
+        "service": "አገልግሎት",
+        "slotDuration": "የጊዜ ክፍተት በደቂቃ",
+        "startTime": "የመጀመሪያ ሰዓት",
+        "time": "ሰዓት"
+    }
+}

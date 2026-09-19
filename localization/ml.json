@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "അപ്പോയിന്റ്മെന്റുകൾ",
+        "provider": "സേവന ദാതാവ്",
+        "availabilityRule": "ലഭ്യതാ നിയമം",
+        "availabilityRules": "ലഭ്യതാ നിയമങ്ങൾ",
+        "booking": "അപ്പോയിന്റ്മെന്റ് ബുക്കിംഗ്",
+        "customer": "ഉപഭോക്താവ്",
+        "dayOfWeek": "ആഴ്ചയിലെ ദിവസം",
+        "endTime": "അവസാന സമയം",
+        "service": "സേവനം",
+        "slotDuration": "സമയ സ്ലോട്ടിന്റെ ദൈർഘ്യം മിനിറ്റിൽ",
+        "startTime": "ആരംഭ സമയം",
+        "time": "സമയം"
+    }
+}

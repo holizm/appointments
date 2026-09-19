@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "అపాయింట్‌మెంట్‌లు",
+        "provider": "సేవా ప్రదాత",
+        "availabilityRule": "అందుబాటు నియమం",
+        "availabilityRules": "అందుబాటు నియమాలు",
+        "booking": "అపాయింట్‌మెంట్ బుకింగ్",
+        "customer": "వినియోగదారు",
+        "dayOfWeek": "వారంలోని రోజు",
+        "endTime": "ముగింపు సమయం",
+        "service": "సేవ",
+        "slotDuration": "సమయ స్లాట్ వ్యవధి నిమిషాల్లో",
+        "startTime": "ప్రారంభ సమయం",
+        "time": "సమయం"
+    }
+}

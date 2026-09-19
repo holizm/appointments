@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Janji temu",
+        "provider": "Penyedia perkhidmatan",
+        "availabilityRule": "Peraturan ketersediaan",
+        "availabilityRules": "Peraturan ketersediaan",
+        "booking": "Tempahan janji temu",
+        "customer": "Pelanggan",
+        "dayOfWeek": "Hari dalam minggu",
+        "endTime": "Masa tamat",
+        "service": "Perkhidmatan",
+        "slotDuration": "Tempoh slot dalam minit",
+        "startTime": "Masa mula",
+        "time": "Masa"
+    }
+}

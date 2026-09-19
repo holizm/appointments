@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Időpontok",
+        "provider": "Szolgáltató",
+        "availabilityRule": "Elérhetőségi szabály",
+        "availabilityRules": "Elérhetőségi szabályok",
+        "booking": "Időpontfoglalás",
+        "customer": "Ügyfél",
+        "dayOfWeek": "A hét napja",
+        "endTime": "Befejezési idő",
+        "service": "Szolgáltatás",
+        "slotDuration": "Idősáv hossza percben",
+        "startTime": "Kezdési idő",
+        "time": "Idő"
+    }
+}

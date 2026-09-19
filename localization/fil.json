@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Mga appointment",
+        "provider": "Provider",
+        "availabilityRule": "Panuntunan sa availability",
+        "availabilityRules": "Mga panuntunan sa availability",
+        "booking": "Pag-book ng appointment",
+        "customer": "Customer",
+        "dayOfWeek": "Araw ng linggo",
+        "endTime": "Oras ng pagtatapos",
+        "service": "Serbisyo",
+        "slotDuration": "Tagal ng slot sa minuto",
+        "startTime": "Oras ng simula",
+        "time": "Oras"
+    }
+}

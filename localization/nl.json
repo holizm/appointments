@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Afspraken",
+        "provider": "Dienstverlener",
+        "availabilityRule": "Beschikbaarheidsregel",
+        "availabilityRules": "Beschikbaarheidsregels",
+        "booking": "Afspraak boeken",
+        "customer": "Klant",
+        "dayOfWeek": "Dag van de week",
+        "endTime": "Eindtijd",
+        "service": "Dienst",
+        "slotDuration": "Duur van tijdvak in minuten",
+        "startTime": "Starttijd",
+        "time": "Tijd"
+    }
+}

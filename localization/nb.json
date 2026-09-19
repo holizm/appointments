@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Avtaler",
+        "provider": "Tjenesteyter",
+        "availabilityRule": "Tilgjengelighetsregel",
+        "availabilityRules": "Tilgjengelighetsregler",
+        "booking": "Timebestilling",
+        "customer": "Kunde",
+        "dayOfWeek": "Ukedag",
+        "endTime": "Sluttid",
+        "service": "Tjeneste",
+        "slotDuration": "Tidslukens varighet i minutter",
+        "startTime": "Starttid",
+        "time": "Tid"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Aftaler",
+        "provider": "Udbyder",
+        "availabilityRule": "Tilgængelighedsregel",
+        "availabilityRules": "Tilgængelighedsregler",
+        "booking": "Aftalebooking",
+        "customer": "Kunde",
+        "dayOfWeek": "Ugedag",
+        "endTime": "Sluttidspunkt",
+        "service": "Tjeneste",
+        "slotDuration": "Tidsrummets varighed i minutter",
+        "startTime": "Starttidspunkt",
+        "time": "Tidspunkt"
+    }
+}

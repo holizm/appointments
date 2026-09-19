@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Randevular",
+        "provider": "Hizmet sağlayıcı",
+        "availabilityRule": "Uygunluk kuralı",
+        "availabilityRules": "Uygunluk kuralları",
+        "booking": "Randevu alma",
+        "customer": "Müşteri",
+        "dayOfWeek": "Haftanın günü",
+        "endTime": "Bitiş saati",
+        "service": "Hizmet",
+        "slotDuration": "Zaman aralığı süresi (dakika)",
+        "startTime": "Başlangıç saati",
+        "time": "Saat"
+    }
+}

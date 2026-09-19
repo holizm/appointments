@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Ajanvaraukset",
+        "provider": "Palveluntarjoaja",
+        "availabilityRule": "Saatavuussääntö",
+        "availabilityRules": "Saatavuussäännöt",
+        "booking": "Ajanvaraus",
+        "customer": "Asiakas",
+        "dayOfWeek": "Viikonpäivä",
+        "endTime": "Päättymisaika",
+        "service": "Palvelu",
+        "slotDuration": "Aikavälin kesto minuutteina",
+        "startTime": "Alkamisaika",
+        "time": "Aika"
+    }
+}

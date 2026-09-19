@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Agendamentos",
+        "provider": "Prestador",
+        "availabilityRule": "Regra de disponibilidade",
+        "availabilityRules": "Regras de disponibilidade",
+        "booking": "Agendamento",
+        "customer": "Cliente",
+        "dayOfWeek": "Dia da semana",
+        "endTime": "Hora de término",
+        "service": "Serviço",
+        "slotDuration": "Duração do horário em minutos",
+        "startTime": "Hora de início",
+        "time": "Horário"
+    }
+}

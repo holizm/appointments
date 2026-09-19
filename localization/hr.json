@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appointments": "Termini",
+        "provider": "Pružatelj usluge",
+        "availabilityRule": "Pravilo dostupnosti",
+        "availabilityRules": "Pravila dostupnosti",
+        "booking": "Rezervacija termina",
+        "customer": "Klijent",
+        "dayOfWeek": "Dan u tjednu",
+        "endTime": "Vrijeme završetka",
+        "service": "Usluga",
+        "slotDuration": "Trajanje termina u minutama",
+        "startTime": "Vrijeme početka",
+        "time": "Vrijeme"
+    }
+}
