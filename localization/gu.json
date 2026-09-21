@@ -13,13 +13,8 @@
         "availabilityRule": "ઉપલબ્ધતાનો નિયમ",
         "availabilityRules": "ઉપલબ્ધતાના નિયમો",
         "booking": "મુલાકાત બુકિંગ",
-        "customer": "ગ્રાહક",
-        "dayOfWeek": "અઠવાડિયાનો દિવસ",
-        "endTime": "સમાપ્તિ સમય",
         "provider": "સેવા પ્રદાતા",
         "service": "સેવા",
-        "slotDuration": "સમયખંડની અવધિ મિનિટમાં",
-        "startTime": "શરૂઆતનો સમય",
-        "time": "સમય"
+        "slotDuration": "સમયખંડની અવધિ મિનિટમાં"
     }
 }

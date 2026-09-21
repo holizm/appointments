@@ -13,13 +13,8 @@
         "availabilityRule": "Правило доступності",
         "availabilityRules": "Правила доступності",
         "booking": "Запис на прийом",
-        "customer": "Клієнт",
-        "dayOfWeek": "День тижня",
-        "endTime": "Час завершення",
         "provider": "Надавач послуг",
         "service": "Послуга",
-        "slotDuration": "Тривалість інтервалу у хвилинах",
-        "startTime": "Час початку",
-        "time": "Час"
+        "slotDuration": "Тривалість інтервалу у хвилинах"
     }
 }

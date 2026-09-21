@@ -13,13 +13,8 @@
         "availabilityRule": "Правило доступности",
         "availabilityRules": "Правила доступности",
         "booking": "Запись на приём",
-        "customer": "Клиент",
-        "dayOfWeek": "День недели",
-        "endTime": "Время окончания",
         "provider": "Исполнитель",
         "service": "Услуга",
-        "slotDuration": "Длительность интервала в минутах",
-        "startTime": "Время начала",
-        "time": "Время"
+        "slotDuration": "Длительность интервала в минутах"
     }
 }

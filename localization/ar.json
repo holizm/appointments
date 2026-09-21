@@ -13,13 +13,8 @@
         "availabilityRule": "قاعدة التوفر",
         "availabilityRules": "قواعد التوفر",
         "booking": "حجز موعد",
-        "customer": "العميل",
-        "dayOfWeek": "يوم الأسبوع",
-        "endTime": "وقت الانتهاء",
         "provider": "مقدم الخدمة",
         "service": "الخدمة",
-        "slotDuration": "مدة الفترة بالدقائق",
-        "startTime": "وقت البدء",
-        "time": "الوقت"
+        "slotDuration": "مدة الفترة بالدقائق"
     }
 }

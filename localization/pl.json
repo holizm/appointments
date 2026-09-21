@@ -13,13 +13,8 @@
         "availabilityRule": "Reguła dostępności",
         "availabilityRules": "Reguły dostępności",
         "booking": "Rezerwacja wizyty",
-        "customer": "Klient",
-        "dayOfWeek": "Dzień tygodnia",
-        "endTime": "Godzina zakończenia",
         "provider": "Usługodawca",
         "service": "Usługa",
-        "slotDuration": "Czas trwania przedziału w minutach",
-        "startTime": "Godzina rozpoczęcia",
-        "time": "Godzina"
+        "slotDuration": "Czas trwania przedziału w minutach"
     }
 }

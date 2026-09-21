@@ -13,13 +13,8 @@
         "availabilityRule": "Quy tắc thời gian trống",
         "availabilityRules": "Các quy tắc thời gian trống",
         "booking": "Đặt lịch hẹn",
-        "customer": "Khách hàng",
-        "dayOfWeek": "Ngày trong tuần",
-        "endTime": "Giờ kết thúc",
         "provider": "Nhà cung cấp dịch vụ",
         "service": "Dịch vụ",
-        "slotDuration": "Thời lượng khung giờ tính bằng phút",
-        "startTime": "Giờ bắt đầu",
-        "time": "Thời gian"
+        "slotDuration": "Thời lượng khung giờ tính bằng phút"
     }
 }

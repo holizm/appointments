@@ -13,13 +13,8 @@
         "availabilityRule": "Pravidlo dostupnosti",
         "availabilityRules": "Pravidla dostupnosti",
         "booking": "Rezervace termínu",
-        "customer": "Zákazník",
-        "dayOfWeek": "Den v týdnu",
-        "endTime": "Čas ukončení",
         "provider": "Poskytovatel",
         "service": "Služba",
-        "slotDuration": "Délka časového úseku v minutách",
-        "startTime": "Čas zahájení",
-        "time": "Čas"
+        "slotDuration": "Délka časového úseku v minutách"
     }
 }

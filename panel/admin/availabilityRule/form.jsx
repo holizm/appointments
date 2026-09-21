@@ -14,17 +14,17 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='appointmentsDayOfWeek'
+        placeholder='coreDayOfWeek'
         property='dayOfWeek'
         required
     />
     <Text
-        placeholder='appointmentsStartTime'
+        placeholder='coreStartTime'
         property='startTime'
         required
     />
     <Text
-        placeholder='appointmentsEndTime'
+        placeholder='coreEndTime'
         property='endTime'
         required
     />

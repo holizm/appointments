@@ -13,13 +13,8 @@
         "availabilityRule": "Aturan ketersediaan",
         "availabilityRules": "Aturan ketersediaan",
         "booking": "Pemesanan janji temu",
-        "customer": "Pelanggan",
-        "dayOfWeek": "Hari dalam seminggu",
-        "endTime": "Waktu selesai",
         "provider": "Penyedia layanan",
         "service": "Layanan",
-        "slotDuration": "Durasi slot dalam menit",
-        "startTime": "Waktu mulai",
-        "time": "Waktu"
+        "slotDuration": "Durasi slot dalam menit"
     }
 }

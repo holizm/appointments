@@ -13,13 +13,8 @@
         "availabilityRule": "Правило доступности",
         "availabilityRules": "Правила доступности",
         "booking": "Заказивање термина",
-        "customer": "Клијент",
-        "dayOfWeek": "Дан у недељи",
-        "endTime": "Време завршетка",
         "provider": "Пружалац услуге",
         "service": "Услуга",
-        "slotDuration": "Трајање термина у минутима",
-        "startTime": "Време почетка",
-        "time": "Време"
+        "slotDuration": "Трајање термина у минутима"
     }
 }

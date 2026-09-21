@@ -13,13 +13,8 @@
         "availabilityRule": "Uygunluk kuralı",
         "availabilityRules": "Uygunluk kuralları",
         "booking": "Randevu alma",
-        "customer": "Müşteri",
-        "dayOfWeek": "Haftanın günü",
-        "endTime": "Bitiş saati",
         "provider": "Hizmet sağlayıcı",
         "service": "Hizmet",
-        "slotDuration": "Zaman aralığı süresi (dakika)",
-        "startTime": "Başlangıç saati",
-        "time": "Saat"
+        "slotDuration": "Zaman aralığı süresi (dakika)"
     }
 }

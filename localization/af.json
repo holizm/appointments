@@ -13,13 +13,8 @@
         "availabilityRule": "Beskikbaarheidsreël",
         "availabilityRules": "Beskikbaarheidsreëls",
         "booking": "Afspraakbespreking",
-        "customer": "Kliënt",
-        "dayOfWeek": "Dag van die week",
-        "endTime": "Eindtyd",
         "provider": "Diensverskaffer",
         "service": "Diens",
-        "slotDuration": "Tydgleufduur in minute",
-        "startTime": "Begintyd",
-        "time": "Tyd"
+        "slotDuration": "Tydgleufduur in minute"
     }
 }

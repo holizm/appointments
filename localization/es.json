@@ -13,13 +13,8 @@
         "availabilityRule": "Regla de disponibilidad",
         "availabilityRules": "Reglas de disponibilidad",
         "booking": "Reserva de cita",
-        "customer": "Cliente",
-        "dayOfWeek": "Día de la semana",
-        "endTime": "Hora de finalización",
         "provider": "Proveedor",
         "service": "Servicio",
-        "slotDuration": "Duración del intervalo en minutos",
-        "startTime": "Hora de inicio",
-        "time": "Hora"
+        "slotDuration": "Duración del intervalo en minutos"
     }
 }

@@ -13,13 +13,8 @@
         "availabilityRule": "Tilgjengelighetsregel",
         "availabilityRules": "Tilgjengelighetsregler",
         "booking": "Timebestilling",
-        "customer": "Kunde",
-        "dayOfWeek": "Ukedag",
-        "endTime": "Sluttid",
         "provider": "Tjenesteyter",
         "service": "Tjeneste",
-        "slotDuration": "Tidslukens varighet i minutter",
-        "startTime": "Starttid",
-        "time": "Tid"
+        "slotDuration": "Tidslukens varighet i minutter"
     }
 }

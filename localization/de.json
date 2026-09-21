@@ -13,13 +13,8 @@
         "availabilityRule": "Verfügbarkeitsregel",
         "availabilityRules": "Verfügbarkeitsregeln",
         "booking": "Terminbuchung",
-        "customer": "Kunde",
-        "dayOfWeek": "Wochentag",
-        "endTime": "Endzeit",
         "provider": "Anbieter",
         "service": "Dienstleistung",
-        "slotDuration": "Zeitfensterdauer in Minuten",
-        "startTime": "Startzeit",
-        "time": "Uhrzeit"
+        "slotDuration": "Zeitfensterdauer in Minuten"
     }
 }

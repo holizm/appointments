@@ -13,13 +13,8 @@
         "availabilityRule": "ਉਪਲਬਧਤਾ ਨਿਯਮ",
         "availabilityRules": "ਉਪਲਬਧਤਾ ਨਿਯਮ",
         "booking": "ਮੁਲਾਕਾਤ ਬੁਕਿੰਗ",
-        "customer": "ਗਾਹਕ",
-        "dayOfWeek": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ",
-        "endTime": "ਸਮਾਪਤੀ ਸਮਾਂ",
         "provider": "ਸੇਵਾ ਪ੍ਰਦਾਤਾ",
         "service": "ਸੇਵਾ",
-        "slotDuration": "ਸਮਾਂ-ਖੰਡ ਦੀ ਮਿਆਦ ਮਿੰਟਾਂ ਵਿੱਚ",
-        "startTime": "ਸ਼ੁਰੂਆਤ ਦਾ ਸਮਾਂ",
-        "time": "ਸਮਾਂ"
+        "slotDuration": "ਸਮਾਂ-ਖੰਡ ਦੀ ਮਿਆਦ ਮਿੰਟਾਂ ਵਿੱਚ"
     }
 }

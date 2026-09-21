@@ -13,13 +13,8 @@
         "availabilityRule": "กฎเวลาว่าง",
         "availabilityRules": "กฎเวลาว่าง",
         "booking": "การจองนัดหมาย",
-        "customer": "ลูกค้า",
-        "dayOfWeek": "วันในสัปดาห์",
-        "endTime": "เวลาสิ้นสุด",
         "provider": "ผู้ให้บริการ",
         "service": "บริการ",
-        "slotDuration": "ระยะเวลาช่วงนัดหมายเป็นนาที",
-        "startTime": "เวลาเริ่มต้น",
-        "time": "เวลา"
+        "slotDuration": "ระยะเวลาช่วงนัดหมายเป็นนาที"
     }
 }

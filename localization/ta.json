@@ -13,13 +13,8 @@
         "availabilityRule": "கிடைக்கும் நேர விதி",
         "availabilityRules": "கிடைக்கும் நேர விதிகள்",
         "booking": "சந்திப்பு முன்பதிவு",
-        "customer": "வாடிக்கையாளர்",
-        "dayOfWeek": "வாரத்தின் நாள்",
-        "endTime": "முடிவு நேரம்",
         "provider": "சேவை வழங்குநர்",
         "service": "சேவை",
-        "slotDuration": "நேர இடைவெளி நிமிடங்களில்",
-        "startTime": "தொடக்க நேரம்",
-        "time": "நேரம்"
+        "slotDuration": "நேர இடைவெளி நிமிடங்களில்"
     }
 }

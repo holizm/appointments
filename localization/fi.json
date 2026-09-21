@@ -13,13 +13,8 @@
         "availabilityRule": "Saatavuussääntö",
         "availabilityRules": "Saatavuussäännöt",
         "booking": "Ajanvaraus",
-        "customer": "Asiakas",
-        "dayOfWeek": "Viikonpäivä",
-        "endTime": "Päättymisaika",
         "provider": "Palveluntarjoaja",
         "service": "Palvelu",
-        "slotDuration": "Aikavälin kesto minuutteina",
-        "startTime": "Alkamisaika",
-        "time": "Aika"
+        "slotDuration": "Aikavälin kesto minuutteina"
     }
 }

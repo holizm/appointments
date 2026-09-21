@@ -13,13 +13,8 @@
         "availabilityRule": "Tilgængelighedsregel",
         "availabilityRules": "Tilgængelighedsregler",
         "booking": "Aftalebooking",
-        "customer": "Kunde",
-        "dayOfWeek": "Ugedag",
-        "endTime": "Sluttidspunkt",
         "provider": "Udbyder",
         "service": "Tjeneste",
-        "slotDuration": "Tidsrummets varighed i minutter",
-        "startTime": "Starttidspunkt",
-        "time": "Tidspunkt"
+        "slotDuration": "Tidsrummets varighed i minutter"
     }
 }

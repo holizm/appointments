@@ -23,7 +23,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='appointmentsCustomer'
+        placeholder='coreCustomer'
         property='customer'
         required
     />

@@ -13,13 +13,8 @@
         "availabilityRule": "అందుబాటు నియమం",
         "availabilityRules": "అందుబాటు నియమాలు",
         "booking": "అపాయింట్‌మెంట్ బుకింగ్",
-        "customer": "వినియోగదారు",
-        "dayOfWeek": "వారంలోని రోజు",
-        "endTime": "ముగింపు సమయం",
         "provider": "సేవా ప్రదాత",
         "service": "సేవ",
-        "slotDuration": "సమయ స్లాట్ వ్యవధి నిమిషాల్లో",
-        "startTime": "ప్రారంభ సమయం",
-        "time": "సమయం"
+        "slotDuration": "సమయ స్లాట్ వ్యవధి నిమిషాల్లో"
     }
 }

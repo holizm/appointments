@@ -13,13 +13,8 @@
         "availabilityRule": "ಲಭ್ಯತೆ ನಿಯಮ",
         "availabilityRules": "ಲಭ್ಯತೆ ನಿಯಮಗಳು",
         "booking": "ನೇಮಕಾತಿ ಬುಕಿಂಗ್",
-        "customer": "ಗ್ರಾಹಕ",
-        "dayOfWeek": "ವಾರದ ದಿನ",
-        "endTime": "ಅಂತ್ಯದ ಸಮಯ",
         "provider": "ಸೇವಾ ಪೂರೈಕೆದಾರ",
         "service": "ಸೇವೆ",
-        "slotDuration": "ಸಮಯ ಸ್ಲಾಟ್ ಅವಧಿ ನಿಮಿಷಗಳಲ್ಲಿ",
-        "startTime": "ಪ್ರಾರಂಭದ ಸಮಯ",
-        "time": "ಸಮಯ"
+        "slotDuration": "ಸಮಯ ಸ್ಲಾಟ್ ಅವಧಿ ನಿಮಿಷಗಳಲ್ಲಿ"
     }
 }

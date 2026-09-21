@@ -13,13 +13,8 @@
         "availabilityRule": "Availability rule",
         "availabilityRules": "Availability rules",
         "booking": "Appointment booking",
-        "customer": "Customer",
-        "dayOfWeek": "Day of week",
-        "endTime": "End time",
         "provider": "Provider",
         "service": "Service",
-        "slotDuration": "Slot duration in minutes",
-        "startTime": "Start time",
-        "time": "Time"
+        "slotDuration": "Slot duration in minutes"
     }
 }

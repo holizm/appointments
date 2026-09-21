@@ -13,13 +13,8 @@
         "availabilityRule": "Regulă de disponibilitate",
         "availabilityRules": "Reguli de disponibilitate",
         "booking": "Rezervare programare",
-        "customer": "Client",
-        "dayOfWeek": "Ziua săptămânii",
-        "endTime": "Ora de încheiere",
         "provider": "Furnizor",
         "service": "Serviciu",
-        "slotDuration": "Durata intervalului în minute",
-        "startTime": "Ora de începere",
-        "time": "Ora"
+        "slotDuration": "Durata intervalului în minute"
     }
 }

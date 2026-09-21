@@ -13,13 +13,8 @@
         "availabilityRule": "Pravilo dostupnosti",
         "availabilityRules": "Pravila dostupnosti",
         "booking": "Rezervacija termina",
-        "customer": "Klijent",
-        "dayOfWeek": "Dan u tjednu",
-        "endTime": "Vrijeme završetka",
         "provider": "Pružatelj usluge",
         "service": "Usluga",
-        "slotDuration": "Trajanje termina u minutama",
-        "startTime": "Vrijeme početka",
-        "time": "Vrijeme"
+        "slotDuration": "Trajanje termina u minutama"
     }
 }

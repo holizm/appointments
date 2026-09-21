@@ -13,13 +13,8 @@
         "availabilityRule": "Elérhetőségi szabály",
         "availabilityRules": "Elérhetőségi szabályok",
         "booking": "Időpontfoglalás",
-        "customer": "Ügyfél",
-        "dayOfWeek": "A hét napja",
-        "endTime": "Befejezési idő",
         "provider": "Szolgáltató",
         "service": "Szolgáltatás",
-        "slotDuration": "Idősáv hossza percben",
-        "startTime": "Kezdési idő",
-        "time": "Idő"
+        "slotDuration": "Idősáv hossza percben"
     }
 }

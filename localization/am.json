@@ -13,13 +13,8 @@
         "availabilityRule": "የተገኝነት ደንብ",
         "availabilityRules": "የተገኝነት ደንቦች",
         "booking": "ቀጠሮ ማስያዝ",
-        "customer": "ደንበኛ",
-        "dayOfWeek": "የሳምንቱ ቀን",
-        "endTime": "የማብቂያ ሰዓት",
         "provider": "አገልግሎት ሰጪ",
         "service": "አገልግሎት",
-        "slotDuration": "የጊዜ ክፍተት በደቂቃ",
-        "startTime": "የመጀመሪያ ሰዓት",
-        "time": "ሰዓት"
+        "slotDuration": "የጊዜ ክፍተት በደቂቃ"
     }
 }

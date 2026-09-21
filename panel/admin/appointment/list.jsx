@@ -9,7 +9,7 @@ const headers = <>
     <th start>appointmentsNumber</th>
     <th>appointmentsService</th>
     <th>appointmentsProvider</th>
-    <th>appointmentsCustomer</th>
+    <th>coreCustomer</th>
     <th>appointmentsStartDate</th>
     <th>stateMachinesState</th>
 </>

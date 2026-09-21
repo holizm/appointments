@@ -13,13 +13,8 @@
         "availabilityRule": "Panuntunan sa availability",
         "availabilityRules": "Mga panuntunan sa availability",
         "booking": "Pag-book ng appointment",
-        "customer": "Customer",
-        "dayOfWeek": "Araw ng linggo",
-        "endTime": "Oras ng pagtatapos",
         "provider": "Provider",
         "service": "Serbisyo",
-        "slotDuration": "Tagal ng slot sa minuto",
-        "startTime": "Oras ng simula",
-        "time": "Oras"
+        "slotDuration": "Tagal ng slot sa minuto"
     }
 }

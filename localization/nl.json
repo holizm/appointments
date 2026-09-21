@@ -13,13 +13,8 @@
         "availabilityRule": "Beschikbaarheidsregel",
         "availabilityRules": "Beschikbaarheidsregels",
         "booking": "Afspraak boeken",
-        "customer": "Klant",
-        "dayOfWeek": "Dag van de week",
-        "endTime": "Eindtijd",
         "provider": "Dienstverlener",
         "service": "Dienst",
-        "slotDuration": "Duur van tijdvak in minuten",
-        "startTime": "Starttijd",
-        "time": "Tijd"
+        "slotDuration": "Duur van tijdvak in minuten"
     }
 }

@@ -13,13 +13,8 @@
         "availabilityRule": "قاعده دسترسی",
         "availabilityRules": "قواعد دسترسی",
         "booking": "نوبت‌دهی",
-        "customer": "مشتری",
-        "dayOfWeek": "روز هفته",
-        "endTime": "ساعت پایان",
         "provider": "ارائه‌دهنده",
         "service": "خدمت",
-        "slotDuration": "مدت نوبت به دقیقه",
-        "startTime": "ساعت شروع",
-        "time": "زمان"
+        "slotDuration": "مدت نوبت به دقیقه"
     }
 }

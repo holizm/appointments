@@ -13,13 +13,8 @@
         "availabilityRule": "空き時間ルール",
         "availabilityRules": "空き時間ルール",
         "booking": "予約受付",
-        "customer": "顧客",
-        "dayOfWeek": "曜日",
-        "endTime": "終了時刻",
         "provider": "サービス提供者",
         "service": "サービス",
-        "slotDuration": "予約枠の長さ（分）",
-        "startTime": "開始時刻",
-        "time": "時刻"
+        "slotDuration": "予約枠の長さ（分）"
     }
 }

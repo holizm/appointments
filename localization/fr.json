@@ -13,13 +13,8 @@
         "availabilityRule": "Règle de disponibilité",
         "availabilityRules": "Règles de disponibilité",
         "booking": "Prise de rendez-vous",
-        "customer": "Client",
-        "dayOfWeek": "Jour de la semaine",
-        "endTime": "Heure de fin",
         "provider": "Prestataire",
         "service": "Service",
-        "slotDuration": "Durée du créneau en minutes",
-        "startTime": "Heure de début",
-        "time": "Heure"
+        "slotDuration": "Durée du créneau en minutes"
     }
 }
