@@ -11,15 +11,6 @@
         "availabilityException": "可预约时间例外",
         "availabilityExceptions": "可预约时间例外",
         "availabilityRule": "可预约规则",
-        "availabilityRules": "可预约规则",
-        "booking": "预约服务",
-        "customer": "客户",
-        "dayOfWeek": "星期",
-        "endTime": "结束时间",
-        "provider": "服务提供者",
-        "service": "服务",
-        "slotDuration": "时段长度（分钟）",
-        "startTime": "开始时间",
-        "time": "时间"
+        "availabilityRules": "可预约规则"
     }
 }
