@@ -1,3 +1,4 @@
+import { List } from 'core'
 import { Appointment } from 'appointments'
 
 export default ({
@@ -7,12 +8,12 @@ export default ({
     <h1 class='title'>
         {translations?.appointmentsAppointments}
     </h1>
-    <div class='items'>
+    <List class='items appointments'>
         {
             appointments?.data?.map(appointment => <Appointment
                 appointment={appointment}
                 key={appointment.id}
             />)
         }
-    </div>
+    </List>
 </main>
