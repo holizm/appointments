@@ -12,6 +12,7 @@ export default ({
         {
             appointments?.data?.map(appointment => <Appointment
                 appointment={appointment}
+                inList
                 key={appointment.id}
             />)
         }
