@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/appointments/appointment/list',
-                title: 'appointmentsAppointments',
+                title: 'appointments',
             },
             {
                 path: '/appointments/availabilityRule/list',
-                title: 'appointmentsAvailabilityRules',
+                title: 'availabilityRules',
             },
         ],
         icon: 'eventAvailable',
         path: '/appointments',
-        title: 'appointmentsBooking',
+        title: 'booking',
     },
 ]

@@ -32,6 +32,8 @@ appointment
     location optional
     description optional
     unique provider startDate
+    uses
+        stateMachines
 appointmentChange
     appointment
     previousStartDate

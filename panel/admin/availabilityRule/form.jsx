@@ -9,32 +9,32 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='appointmentsProvider'
+        placeholder='provider'
         property='provider'
         required
     />
     <Numeric
-        placeholder='coreDayOfWeek'
+        placeholder='dayOfWeek'
         property='dayOfWeek'
         required
     />
     <Text
-        placeholder='coreStartTime'
+        placeholder='startTime'
         property='startTime'
         required
     />
     <Text
-        placeholder='coreEndTime'
+        placeholder='endTime'
         property='endTime'
         required
     />
     <Numeric
-        placeholder='appointmentsSlotDuration'
+        placeholder='slotDuration'
         property='slotDurationMinutes'
         required
     />
     <Boolean
-        placeholder='appointmentsActive'
+        placeholder='active'
         property='active'
     />
 </>

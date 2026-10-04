@@ -1,8 +1,8 @@
 export default <>
-    <th start>appointmentsNumber</th>
-    <th>appointmentsService</th>
-    <th>appointmentsProvider</th>
-    <th>coreCustomer</th>
-    <th>appointmentsStartDate</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>service</th>
+    <th>provider</th>
+    <th>customer</th>
+    <th>startDate</th>
+    <th>state</th>
 </>

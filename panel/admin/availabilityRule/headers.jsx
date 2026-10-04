@@ -1,6 +1,6 @@
 export default <>
-    <th start>appointmentsAvailabilityRule</th>
-    <th>appointmentsProvider</th>
-    <th>coreDayOfWeek</th>
-    <th>coreTime</th>
+    <th start>availabilityRule</th>
+    <th>provider</th>
+    <th>dayOfWeek</th>
+    <th>time</th>
 </>

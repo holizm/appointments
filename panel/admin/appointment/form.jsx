@@ -8,32 +8,32 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='appointmentsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='appointmentsService'
+        placeholder='service'
         property='service'
         required
     />
     <Text
-        placeholder='appointmentsProvider'
+        placeholder='provider'
         property='provider'
         required
     />
     <Text
-        placeholder='coreCustomer'
+        placeholder='customer'
         property='customer'
         required
     />
     <DateTime
-        placeholder='appointmentsStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='appointmentsEndDate'
+        placeholder='endDate'
         property='endDate'
         required
     />
@@ -46,12 +46,12 @@ const inputs = <>
             'completed',
             'noShow',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='appointmentStatus'
         required
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>
