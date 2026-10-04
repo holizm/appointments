@@ -8,36 +8,31 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='service'
-        property='service'
+        required
+        service
+    />
+    <Text
+        provider
         required
     />
     <Text
-        placeholder='provider'
-        property='provider'
-        required
-    />
-    <Text
-        placeholder='customer'
-        property='customer'
+        customer
         required
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
     <DateTime
-        placeholder='endDate'
-        property='endDate'
+        endDate
         required
     />
     <Select
+        appointmentStatus
         options={[
             'requested',
             'confirmed',
@@ -47,13 +42,9 @@ const inputs = <>
             'noShow',
         ]}
         placeholder='state'
-        property='appointmentStatus'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

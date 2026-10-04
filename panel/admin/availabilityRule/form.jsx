@@ -9,34 +9,27 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='provider'
-        property='provider'
+        provider
         required
     />
     <Numeric
-        placeholder='dayOfWeek'
-        property='dayOfWeek'
+        dayOfWeek
         required
     />
     <Text
-        placeholder='startTime'
-        property='startTime'
         required
+        startTime
     />
     <Text
-        placeholder='endTime'
-        property='endTime'
+        endTime
         required
     />
     <Numeric
         placeholder='slotDuration'
-        property='slotDurationMinutes'
         required
+        slotDurationMinutes
     />
-    <Boolean
-        placeholder='active'
-        property='active'
-    />
+    <Boolean active />
 </>
 
 export default <DialogForm inputs={inputs} />
