@@ -1,5 +1,5 @@
 import List from 'list'
-import { Appointment } from 'appointments'
+import AppointmentsAppointment from 'appointmentsAppointment'
 
 export default ({
     appointments,
@@ -10,7 +10,7 @@ export default ({
     </h1>
     <List class='items appointments'>
         {
-            appointments?.data?.map(appointment => <Appointment
+            appointments?.data?.map(appointment => <AppointmentsAppointment
                 appointment={appointment}
                 inList
                 key={appointment.id}
