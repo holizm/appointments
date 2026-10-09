@@ -1,4 +1,4 @@
-import { List } from 'core'
+import List from 'list'
 import { Appointment } from 'appointments'
 
 export default ({
