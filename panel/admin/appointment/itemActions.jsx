@@ -4,6 +4,6 @@ export default item => <ItemAction
     goTo
     icon='visibility'
     query={{ id: item.id }}
-    targetAction='itemPage'
+    targetAction='item'
     title='coreView'
 />

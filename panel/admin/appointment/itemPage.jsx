@@ -8,5 +8,6 @@ export default <ItemPage
     itemActions={itemActions}
     part='appointments'
     relations={relations}
+    titleProperty='number'
     type='appointment'
 />
