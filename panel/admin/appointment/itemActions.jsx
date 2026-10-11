@@ -5,5 +5,5 @@ export default item => <ItemAction
     icon='visibility'
     query={{ id: item.id }}
     targetAction='item'
-    title='coreView'
+    title='view'
 />
