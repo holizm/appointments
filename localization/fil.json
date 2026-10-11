@@ -15,7 +15,6 @@
         "booking": "Pag-book ng appointment",
         "provider": "Tagapagbigay ng serbisyo",
         "service": "Serbisyo",
-        "slotDuration": "Tagal ng slot sa minuto",
-        "appointmentBooking": "Pagpapareserba ng tipanan"
+        "slotDuration": "Tagal ng slot sa minuto"
     }
 }
