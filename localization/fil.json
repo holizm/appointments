@@ -7,14 +7,15 @@
         "appointmentReminders": "Mga paalala sa tipanan",
         "appointmentStatus": "Katayuan ng tipanan",
         "appointmentStatuses": "Mga katayuan ng tipanan",
-        "appointments": "Mga appointment",
+        "appointments": "Mga tipanan",
         "availabilityException": "Eksepsiyon sa availability",
         "availabilityExceptions": "Mga eksepsiyon sa availability",
         "availabilityRule": "Panuntunan sa availability",
         "availabilityRules": "Mga panuntunan sa availability",
         "booking": "Pag-book ng appointment",
-        "provider": "Provider",
+        "provider": "Tagapagbigay ng serbisyo",
         "service": "Serbisyo",
-        "slotDuration": "Tagal ng slot sa minuto"
+        "slotDuration": "Tagal ng slot sa minuto",
+        "appointmentBooking": "Pagpapareserba ng tipanan"
     }
 }

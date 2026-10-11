@@ -7,7 +7,7 @@
         "appointmentReminders": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಜ್ಞಾಪನೆಗಳು",
         "appointmentStatus": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಸ್ಥಿತಿ",
         "appointmentStatuses": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಸ್ಥಿತಿಗಳು",
-        "appointments": "ನೇಮಕಾತಿಗಳು",
+        "appointments": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗಳು",
         "availabilityException": "ಲಭ್ಯತೆಯ ವಿನಾಯಿತಿ",
         "availabilityExceptions": "ಲಭ್ಯತೆಯ ವಿನಾಯಿತಿಗಳು",
         "availabilityRule": "ಲಭ್ಯತೆ ನಿಯಮ",
@@ -15,6 +15,7 @@
         "booking": "ನೇಮಕಾತಿ ಬುಕಿಂಗ್",
         "provider": "ಸೇವಾ ಪೂರೈಕೆದಾರ",
         "service": "ಸೇವೆ",
-        "slotDuration": "ಸಮಯ ಸ್ಲಾಟ್ ಅವಧಿ ನಿಮಿಷಗಳಲ್ಲಿ"
+        "slotDuration": "ಸಮಯ ಸ್ಲಾಟ್ ಅವಧಿ ನಿಮಿಷಗಳಲ್ಲಿ",
+        "appointmentBooking": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಬುಕಿಂಗ್"
     }
 }

@@ -1,6 +1,6 @@
 {
     "common": {
-        "appointment": "Ìpàdé",
+        "appointment": "Àdéhùn àkókò",
         "appointmentChange": "Ìyípadà ìpàdé",
         "appointmentChanges": "Àwọn ìyípadà ìpàdé",
         "appointmentReminder": "Ìránnilétí ìpàdé",
@@ -15,6 +15,7 @@
         "booking": "Ìfipamọ́ àdéhùn àkókò",
         "provider": "Olùpèsè iṣẹ́",
         "service": "Iṣẹ́",
-        "slotDuration": "Gígùn àkókò ní ìṣẹ́jú"
+        "slotDuration": "Gígùn àkókò ní ìṣẹ́jú",
+        "appointmentBooking": "Ìfipamọ́ àdéhùn àkókò"
     }
 }
